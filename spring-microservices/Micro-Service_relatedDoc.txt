@@ -1,0 +1,23 @@
+Cloud config server related changes in git repository
+-------------------------------------------------------
+
+step 1 : go to folder location 
+
+D:\spring-microservice-env\git-localconfig-repo
+
+step 2 :  try to add files recently aded to folder
+
+D:\spring-microservice-env\git-localconfig-repo>git add -A
+
+step 3: get the git latest status
+
+D:\spring-microservice-env\git-localconfig-repo>git status
+
+step 4: try to commit the latest changes to git repository
+
+D:\spring-microservice-env\git-localconfig-repo>git commit -m "First commit"
+
+-----------------------------------------------------------------------
+
+
+ 
